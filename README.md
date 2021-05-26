@@ -1,4 +1,4 @@
-[draft] Quickly build dai apps w/ `dapple` and `MakerUser`
+[draft] Quickly build dai apps w/ `dapple` and `LiteMakerUser`
 ---
 
 #### Prerequisites
